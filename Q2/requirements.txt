@@ -1,0 +1,17 @@
+#Cleaning
+beautifulsoup4==4.11.1
+demoji==1.1.0
+contractions==0.1.72
+Unidecode==1.3.4
+#Model
+sklearn
+pandas==0.25.0
+numpy==1.21.5
+transformers==2.1.1
+torch==1.2.0
+#EDA
+seaborn==0.11.1
+wordcloud==1.8.2.2
+vaderSentiment==3.3.2
+#Misc
+tqdm
