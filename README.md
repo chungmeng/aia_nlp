@@ -1,8 +1,8 @@
 # aia_nlp
 LIM CHUNG MENG - AUG 2022
 
- Q2/__
-  |__   
+ Q2/<br />
+  |<br />   
   +-Q2_Presentation_Slides.pdf
   +-01-EDA_and_Cleaning.ipynb
   +-02A-Preprocess_TFIDF_Tokenize.ipynb
